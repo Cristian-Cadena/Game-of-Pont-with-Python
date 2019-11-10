@@ -1,6 +1,8 @@
 import turtle
 import winsound
 
+#IADDFORTESTOFSYNTAXIS
+
 wn = turtle.Screen()
 wn.title("Pong by @CristianCadena")
 wn.bgcolor("black")
